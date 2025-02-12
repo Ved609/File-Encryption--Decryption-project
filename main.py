@@ -4,7 +4,7 @@ from tkinter import messagebox
 from tkinter import filedialog
 
 global filepath
-global Key
+global K
 global keypath
 
 def Generate():
